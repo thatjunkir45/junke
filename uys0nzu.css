@@ -1,0 +1,109 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * halcom:
+ *   - http://typekit.com/eulas/00000000000000007735b03d
+ *   - http://typekit.com/eulas/00000000000000007735b046
+ *   - http://typekit.com/eulas/00000000000000007735b056
+ *   - http://typekit.com/eulas/00000000000000007735b05a
+ * parisine-std-sombre:
+ *   - http://typekit.com/eulas/000000000000000077359f8c
+ * work-sans:
+ *   - http://typekit.com/eulas/00000000000000007735c13d
+ *   - http://typekit.com/eulas/00000000000000007735c15a
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-09-17 16:08:28 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+  font-family: "parisine-std-sombre";
+  src: url("af/a47704/000000000000000077359f8c/30/l") format("woff2"),
+    url("af/a47704/000000000000000077359f8c/30/d") format("woff"),
+    url("af/a47704/000000000000000077359f8c/30/a") format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "halcom";
+  src: url("af/867dff/00000000000000007735b03d/30/l") format("woff2"),
+    url("af/867dff/00000000000000007735b03d/30/d") format("woff"),
+    url("af/867dff/00000000000000007735b03d/30/a") format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "halcom";
+  src: url("af/414b67/00000000000000007735b046/30/l") format("woff2"),
+    url("af/414b67/00000000000000007735b046/30/d") format("woff"),
+    url("af/414b67/00000000000000007735b046/30/a") format("opentype");
+  font-display: auto;
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "halcom";
+  src: url("af/bb4545/00000000000000007735b056/30/l") format("woff2"),
+    url("af/bb4545/00000000000000007735b056/30/d") format("woff"),
+    url("af/bb4545/00000000000000007735b056/30/a") format("opentype");
+  font-display: auto;
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "halcom";
+  src: url("af/a8369e/00000000000000007735b05a/30/l") format("woff2"),
+    url("af/a8369e/00000000000000007735b05a/30/d") format("woff"),
+    url("af/a8369e/00000000000000007735b05a/30/a") format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "work-sans";
+  src: url("af/c3941c/00000000000000007735c13d/30/l") format("woff2"),
+    url("af/c3941c/00000000000000007735c13d/30/d") format("woff"),
+    url("af/c3941c/00000000000000007735c13d/30/a") format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "work-sans";
+  src: url("af/5636ba/00000000000000007735c15a/30/l") format("woff2"),
+    url("af/5636ba/00000000000000007735c15a/30/d") format("woff"),
+    url("af/5636ba/00000000000000007735c15a/30/a") format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+.tk-parisine-std-sombre {
+  font-family: "parisine-std-sombre", sans-serif;
+}
+.tk-halcom {
+  font-family: "halcom", sans-serif;
+}
+.tk-work-sans {
+  font-family: "work-sans", sans-serif;
+}
